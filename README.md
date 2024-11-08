@@ -16,9 +16,9 @@ git clone https://github.com/AfroditeSanliveira/Gjetning
 **Tecnologias usadas:**
 1. Linguagem de Programação C++
 2. Bibliotecas:
-2.2. <iostream> Biblioteca para manipulação de entrada e saída.
-2.3. <cstdlib> Biblioteca com funções utilitárias, como geração de número aleatórios.
-2.4. <ctime> Biblioteca de manipulação de tempo.
+2.2. iostream Biblioteca para manipulação de entrada e saída.
+2.3. cstdlib Biblioteca com funções utilitárias, como geração de número aleatórios.
+2.4. ctime Biblioteca de manipulação de tempo.
 
 **Ajudas:**
 Meu irmão, que me ajudou com correção de erros.
