@@ -20,6 +20,10 @@ git clone ...
 2.3. <cstdlib> Biblioteca com funções utilitárias, como geração de número aleatórios.
 2.4. <ctime> Biblioteca de manipulação de tempo.
 
+**Ajudas:**
+Meu irmão, que me ajudou com correção de erros.
+Chat GPT, com indicações de bibliotecas.
+
 **Contribuição:**
 Sinta-se à vontade para abrir uma issue ou fazer um pull request com melhorias!
 
