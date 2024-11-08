@@ -8,8 +8,8 @@ Este é um simples jogo de adivinhação desenvolvido em C++. O objetivo é que 
 4. Mensagem de vitória ao acertar o número.
 
 **Como jogar:**
-1. Clone este repositório (editar depois)
-git clone ...
+1. Clone este repositório
+git clone https://github.com/AfroditeSanliveira/Gjetning
 2. Execute o código em algum compilador C++
 3. Sigas as instruções na tela e tente adivinhar o número.
 
